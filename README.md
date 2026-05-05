@@ -35,10 +35,8 @@ Before / After images can be added here.
 ### 1. Clone repository
 
 ```bash
-mkdir yourworkingdirectory
-cd yourworkingdirectory
 git clone https://github.com/seikato/license-plate-blur-yolov5.git
-
+cd license-plate-blur-yolov5
 
 ---
 
@@ -81,7 +79,7 @@ wget https://huggingface.co/keremberke/yolov5m-license-plate/resolve/main/best.p
 Place the downloaded file in the project root directory:
 
 ```text
-workingdirectory/best.pt
+license-plate-blur-yolov5/best.pt
 ```
 
 ---
