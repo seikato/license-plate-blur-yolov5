@@ -19,7 +19,7 @@ def parse_args():
     parser.add_argument(
         "--input_dir",
         type=str,
-        default="/mnt/c/home/40_photo/2026-01-03",
+        default="/mnt/c/home/",
         help="Directory containing input images"
     )
 

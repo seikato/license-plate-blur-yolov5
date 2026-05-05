@@ -95,13 +95,13 @@ python3 blur.py 2918
 ### Input Image
 
 ```text
-/mnt/c/home/40_photo/2026-01-03/DSC02918.JPG
+/mnt/c/home/DSC02918.JPG
 ```
 
 ### Output Image
 
 ```text
-/mnt/c/home/40_photo/2026-01-03/output_2918.jpg
+/mnt/c/home/output_2918.jpg
 ```
 
 ---
