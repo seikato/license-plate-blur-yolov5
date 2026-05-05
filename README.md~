@@ -1,0 +1,36 @@
+# PlateBlur - Automatic License Plate Blurring with YOLOv5
+
+A Python tool for automatically detecting and blurring license plates in images using YOLOv5.
+
+---
+
+## Features
+
+- Automatic license plate detection using YOLOv5
+- Gaussian blur applied only to detected regions
+- Local execution (no cloud required)
+- Simple command-line interface
+- Reproducible environment with pinned dependencies
+
+---
+
+## Example
+
+Before / After comparison images can be added here.
+
+---
+
+## Requirements
+
+- Python 3.10
+- Linux or WSL recommended
+
+---
+
+## Installation
+
+### 1. Clone repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/PlateBlur.git
+cd PlateBlur
