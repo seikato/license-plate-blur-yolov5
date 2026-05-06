@@ -228,4 +228,4 @@ MIT License
 ## Author
 
 - X: https://x.com/seikato  
-- LinkedIn: https://www.linkedin.com/in/seikato/
+- GitHubIo: https://seikato.github.io/
